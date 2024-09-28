@@ -1,0 +1,15 @@
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\bin\Debug\LocalChatBot.exe.config
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\bin\Debug\LocalChatBot.exe
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\bin\Debug\LocalChatBot.pdb
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot.csproj.AssemblyReference.cache
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\MainWindow.g.cs
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\App.g.cs
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot_MarkupCompile.cache
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot_MarkupCompile.lref
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\MainWindow.baml
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot.g.resources
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot.Properties.Resources.resources
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot.csproj.GenerateResource.cache
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot.csproj.CoreCompileInputs.cache
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot.exe
+D:\PDFChatBot_Work\LocalChatBot\LocalChatBot\obj\Debug\LocalChatBot.pdb
